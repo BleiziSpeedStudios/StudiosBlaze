@@ -1,0 +1,87 @@
+body {
+   background-color: black
+ }
+body {
+   color: white
+}
+body
+    .text1{
+       color: white
+   
+}
+body
+    .text1{
+       background-color: darkred
+   
+}
+body
+    .text2{
+       color: white
+    }
+body
+    .text2{
+       background-color: darkred
+       
+}
+body
+    .text3{
+       color: aliceblue
+   
+    }
+body
+    .text3{
+       background-color: blue
+   
+}
+body 
+    .info{
+       color: white
+       
+}
+body
+    .info{
+       background: darkorange
+}
+body
+    .info{
+       border-bottom-color:white
+}
+body
+    .infocolor{
+       color: white
+   
+}
+body
+    .aviso{
+       font-size: 40px
+   
+    }
+body
+    .infocolor{
+       font-size: 40px
+   
+}
+body
+    .textB{
+       font-size: 40px
+}
+body 
+    .textB{
+       color: white
+}
+body
+    .buttonI{
+        background-color: chocolate
+}
+body
+    .botaoDwC{
+   font-size: 40px
+}
+body
+    .botaoDwC{
+       color: white
+}
+body
+    .botaoDw{
+       background-color: lightgreen
+}
